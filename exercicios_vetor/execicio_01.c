@@ -4,11 +4,11 @@ int main() {
 
 
     // Calculando a soma de A[0], A[1] e A[5]
-    int somaDosValores = A[0] + A[1] + A[5];
+    int soma = A[0] + A[1] + A[5];
 
 
     // Exibindo a soma na tela
-    printf("Soma de A[0], A[1] e A[5]: %d\n", somaDosValores);
+    printf("Soma de A[0], A[1] e A[5]: %d\n", soma);
 
 
     // Modificando o valor na posição 4 para 100
@@ -24,3 +24,4 @@ int main() {
 
     return 0;
 }
+
